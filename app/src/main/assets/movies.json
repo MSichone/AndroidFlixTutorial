@@ -1,0 +1,122 @@
+[
+  {
+    "poster_path": "https://storage.googleapis.com/reinventory/androidflix/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
+    "id": 419704,
+    "adult": false,
+    "backdrop_path": "https://storage.googleapis.com/reinventory/androidflix/p3TCqUDoVsrIm8fHK9KOTfWnDjZ.jpg",
+    "original_language": "en",
+    "original_title": "Ad Astra",
+    "title": "Ad Astra",
+    "overview": "The near future, a time when both hope and hardships drive humanity to look to the stars and beyond. While a mysterious phenomenon menaces to destroy life on planet Earth, astronaut Roy McBride undertakes a mission across the immensity of space and its many perils to uncover the truth about a lost expedition that decades before boldly faced emptiness and silence in search of the unknown.",
+    "release_date": "2019-09-17",
+    "genre_ids":[878,18,53,12,9648]
+  },
+  {
+    "id": 181812,
+    "title": "Star Wars: The Rise of Skywalker",
+    "release_date": "2019-12-18",
+    "genre_ids": [28,12,878],
+    "original_language": "en",
+    "original_title": "Star Wars: The Rise of Skywalker",
+    "backdrop_path": "https://storage.googleapis.com/reinventory/androidflix/jOzrELAzFxtMx2I4uDGHOotdfsS.jpg",
+    "adult": false,
+    "overview": "The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.",
+    "poster_path": "https://storage.googleapis.com/reinventory/androidflix/db32LaOibwEliAmSL2jjDF6oDdj.jpg"
+  },
+  {
+    "id": 475557,
+    "title": "Joker",
+    "release_date": "2019-10-02",
+    "original_language": "en",
+    "original_title": "Joker",
+    "backdrop_path": "https://storage.googleapis.com/reinventory/androidflix/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
+    "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+    "poster_path": "https://storage.googleapis.com/reinventory/androidflix/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "adult": false,
+    "genre_ids": [80,18,53]
+  },
+  {
+    "poster_path": "https://storage.googleapis.com/reinventory/androidflix/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg",
+    "id": 512200,
+    "adult": false,
+    "backdrop_path": "https://storage.googleapis.com/reinventory/androidflix/zTxHf9iIOCqRbxvl8W5QYKrsMLq.jpg",
+    "original_language": "en",
+    "original_title": "Jumanji: The Next Level",
+    "title": "Jumanji: The Next Level",
+    "overview": "As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.",
+    "release_date": "2019-12-04",
+    "genre_ids": [28,12,35,14]
+  },
+  {
+    "poster_path": "https://storage.googleapis.com/reinventory/androidflix/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg",
+    "id": 420809,
+    "adult": false,
+    "backdrop_path": "https://storage.googleapis.com/reinventory/androidflix/skvI4rYFrKXS73BJxWGH54Omlvv.jpg",
+    "original_language": "en",
+    "original_title": "Maleficent: Mistress of Evil",
+    "title": "Maleficent: Mistress of Evil",
+    "overview": "Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.",
+    "release_date": "2019-10-16",
+    "genre_ids": [12,14,10751]
+  },
+  {
+    "id": 449924,
+    "title": "Ip Man 4: The Finale",
+    "release_date": "2019-12-20",
+    "genre_ids": [28,18,36],
+    "original_language": "cn",
+    "original_title": "葉問4",
+    "backdrop_path": "https://storage.googleapis.com/reinventory/androidflix/ekP6EVxL81lZ4ivcqPsoZ72rY0h.jpg",
+    "adult": false,
+    "overview": "Following the death of his wife, Ip Man travels to San Francisco to ease tensions between the local kung fu masters and his star student, Bruce Lee, while searching for a better future for his son.",
+    "poster_path": "https://storage.googleapis.com/reinventory/androidflix/yJdeWaVXa2se9agI6B4mQunVYkB.jpg"
+  },
+  {
+    "poster_path": "https://storage.googleapis.com/reinventory/androidflix/pjeMs3yqRmFL3giJy4PMXWZTTPa.jpg",
+    "id": 330457,
+    "adult": false,
+    "backdrop_path": "https://storage.googleapis.com/reinventory/androidflix/xJWPZIYOEFIjZpBL7SVBGnzRYXp.jpg",
+    "original_language": "en",
+    "original_title": "Frozen II",
+    "title": "Frozen II",
+    "overview": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
+    "release_date": "2019-11-20",
+    "genre_ids": [12,16,10402,10751]
+  },
+  {
+    "poster_path": "https://storage.googleapis.com/reinventory/androidflix/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg",
+    "id": 453405,
+    "adult": false,
+    "backdrop_path": "https://storage.googleapis.com/reinventory/androidflix/sfW7GcOuwZFuCxVoU5ULlkiDJ7Q.jpg",
+    "original_language": "en",
+    "original_title": "Gemini Man",
+    "title": "Gemini Man",
+    "overview": "Ageing assassin, Henry Brogen tries to get out of the business but finds himself in the ultimate battle—fighting his own clone who is 25 years younger than him, and at the peak of his abilities.",
+    "release_date": "2019-10-02",
+    "genre_ids": [28,53]
+  },
+  {
+    "poster_path": "https://storage.googleapis.com/reinventory/androidflix/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+    "id": 466272,
+    "adult": false,
+    "backdrop_path": "https://storage.googleapis.com/reinventory/androidflix/yB2hTgz9CTVYjlMWPSl3LPx5nWj.jpg",
+    "original_language": "en",
+    "original_title": "Once Upon a Time… in Hollywood",
+    "title": "Once Upon a Time… in Hollywood",
+    "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski…",
+    "release_date": "2019-07-25",
+    "genre_ids": [35,18,53]
+  },
+  {
+    "poster_path": "https://storage.googleapis.com/reinventory/androidflix/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+    "id": 181808,
+    "adult": false,
+    "backdrop_path": "https://storage.googleapis.com/reinventory/androidflix/5Iw7zQTHVRBOYpA0V6z0yypOPZh.jpg",
+    "original_language": "en",
+    "original_title": "Star Wars: The Last Jedi",
+    "title": "Star Wars: The Last Jedi",
+    "overview": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.",
+    "release_date": "2017-12-13",
+    "genre_ids": [28,12,878]
+  }
+]
